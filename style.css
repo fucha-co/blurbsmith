@@ -771,14 +771,14 @@ nav#main-nav ul li.current a i {
 }
 
 .profile-content {
-	max-width: 500px;
+	max-width: 800px;
 	text-align: left;
 	float: left;
 }
 
 .profile-name {
 	margin-bottom: 20px;
-	margin-left: 5px;
+	margin-left: 0px;
 }
 
 .avatar img {
@@ -1600,6 +1600,11 @@ p.quote {
 .contact {
 	padding: 0px;
 	background: transparent;
+}
+
+.contact .section {
+	padding-bottom: 0px;
+	text-align: left;
 }
 
 .contact-details, .contact-details a {
