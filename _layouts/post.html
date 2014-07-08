@@ -20,11 +20,19 @@
         </header>
     </div>
 
-    {% if page.image.feature %}<img src="{{ site.url }}/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}" {% if site.logo == null %}style="margin-top:0;"{% endif %}>{% if page.image.credit %}<p class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a>{% endif %}{% endif %}
+    {% if page.image.feature %}
+        <div class="img-wrapper">
+            <img src="{{ site.url }}/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}" {% if site.logo == null %}style="margin-top:0;">
+        </div>
+    {% endif %}
+
+    {% if page.image.credit %}
+        <p class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a>
+    {% endif %}{% endif %}
     <div class="entry-wrapper">
       <div class="entry-content">
           <header class="entry-header">
-            <h3 class="standout">BLURBSMITH is a brand new creative writing and advertising service. If you need an effective and creative ad, blurb, or slogan, get in touch today via <a href="mailto:blurbs@blurbsmith.net">blurbs@blurbsmith.net</a>.</h3>
+            <h3 class="standout">{% include about-blurb.html %}</h3>
             <h4 class="see-more">See more BLURBSMITH blurbs...</h4>
           </header>
 
