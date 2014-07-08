@@ -14,21 +14,21 @@
   });
 
   (function( $, window, undefined ) {
-    
+
      var bs = {
           close: $(".icon-remove-sign"),
           searchform: $(".search-form"),
           canvas: $("body"),
           dothis: $('.dosearch')
       };
-    
+
     bs.dothis.on('click', function() {
       $('.search-wrapper').css({ display: "block" });
       bs.searchform.toggleClass('active');
       bs.searchform.find('input').focus();
       bs.canvas.toggleClass('search-overlay');
     });
-    
+
       bs.close.on('click', function() {
         $('.search-wrapper').removeAttr( 'style' );
         bs.searchform.toggleClass('active');
@@ -41,7 +41,7 @@
 <!-- Asynchronous Google Analytics snippet -->
 <script>
   var _gaq = _gaq || [];
-  var pluginUrl = 
+  var pluginUrl =
  '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
   _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
   _gaq.push(['_setAccount', '{{ site.google_analytics }}']);
@@ -54,4 +54,5 @@
   })();
 </script>
 {% endif %}
+<script type="text/javascript">var _gauges=_gauges||[];(function(){var d=document.createElement("script");d.type="text/javascript";d.async=true;d.id="gauges-tracker";d.setAttribute("data-site-id","53aa5add8bfdf7391700938f");d.src="//secure.gaug.es/track.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(d,c)})();</script>
 {% if page.comments %}{% include disqus_comments.html %}{% endif %}
