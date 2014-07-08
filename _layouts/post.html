@@ -1,0 +1,52 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include head.html %}
+</head>
+
+<body id="page" class="noborder">
+
+<!-- include navigation.html -->
+
+<div id="main" role="main">
+  <article class="entry">
+      <div class="entry-wrapper">
+        <header class="entry-header">
+          <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}</h1>{% endif %}
+          <h2 class="subtitle">A BLURBSMITH {{ page.type }}</h2>
+        </header>
+    </div>
+
+    {% if page.image.feature %}<img src="{{ site.url }}/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}" {% if site.logo == null %}style="margin-top:0;"{% endif %}>{% if page.image.credit %}<p class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a>{% endif %}{% endif %}
+    <div class="entry-wrapper">
+      <div class="entry-content">
+          <header class="entry-header">
+            <h3 class="standout">BLURBSMITH is a brand new creative writing and advertising service. If you need an effective and creative ad, blurb, or slogan, get in touch today via <a href="mailto:blurbs@blurbsmith.net">blurbs@blurbsmith.net</a>.</h3>
+            <h4 class="see-more">See more BLURBSMITH blurbs...</h4>
+          </header>
+
+        {{ content }}
+
+        <ul class="post-list">
+        {% for post in site.posts limit:10 %}
+          <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.type }}</time></span></a></article></li>
+        {% endfor %}
+        </ul>
+      </div><!-- /.entry-content -->
+    </div><!-- /.entry-wrapper -->
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrapper">
+  <footer role="contentinfo">
+    {% include footer.html %}
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+{% include scripts.html %}
+
+</body>
+</html>
