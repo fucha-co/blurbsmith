@@ -21,9 +21,9 @@
     </div>
 
     {% if page.image.feature %}
-        <div class="img-wrapper">
+
             <img src="{{ site.url }}/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}" {% if site.logo == null %}style="margin-top:0;">
-        </div>
+        
     {% endif %}
 
     {% if page.image.credit %}
