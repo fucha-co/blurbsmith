@@ -131,7 +131,7 @@ body {
 }
 .cover p {
     font-size: 1.2em;
-    line-height: 1.2em;
+    line-height: 1.5em;
 }
 @media (min-width: 768px) {
     .cover p {
@@ -165,8 +165,9 @@ time {
 
 .mastfoot {
   position: fixed;
-  bottom: 20px;
+  bottom: 0px;
 }
+
 
 /*
  * Affix and center
@@ -174,6 +175,11 @@ time {
 
 @media (min-width: 768px) {
   /* Pull out the header and footer */
+
+    .mastfoot {
+      position: fixed;
+      bottom: 20px;
+    }
 
     time {
         float: right;
