@@ -124,7 +124,7 @@ padding: 30px 20px 10px;
     float: left;
   }
   .masthead-nav {
-    float: right;
+    float: none;
   }
 }
 
