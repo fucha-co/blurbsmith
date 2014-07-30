@@ -31,7 +31,7 @@ a:hover {
     .btn-default:focus {
       margin-top: -10px;
     }
-
+}
 
 /*
  * Base structure
@@ -171,6 +171,7 @@ padding: 30px 20px 10px;
 time {
     float: none;
     display: block;
+    margin-top: 1em;
 }
 
 .masthead {
@@ -199,6 +200,7 @@ time {
     time {
         float: right;
         display: block;
+        margin-top: 0em;
     }
   /* Start the vertical centering */
   .site-wrapper-inner {
