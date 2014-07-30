@@ -3,7 +3,7 @@
   <channel>
       <title>Featured on Blurbsmith </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/tags/featured/index.xml</link>
+    <link>http://www.blurbsmith.net/tags/featured/index.xml</link>
     <language>en-uk</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>he is human</title>
-      <link>http://localhost:1313/he-is-human</link>
+      <link>http://www.blurbsmith.net/he-is-human</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/he-is-human</guid>
+      <guid>http://www.blurbsmith.net/he-is-human</guid>
       <description>&lt;p&gt;They change the books, not history&lt;br /&gt;
 They took his name out, not away&lt;br /&gt;
 He always knew what we never wanted to&amp;hellip;&lt;br /&gt;
