@@ -25,6 +25,13 @@ a:hover {
   margin-top: 20px;
 }
 
+@media (min-width: 768px) {
+    .btn-default,
+    .btn-default:hover,
+    .btn-default:focus {
+      margin-top: -10px;
+    }
+
 
 /*
  * Base structure
@@ -66,7 +73,15 @@ body {
 .inner {
   padding: 30px 20px;
 }
+.mastfoot.inner {
+padding: 30px 20px 10px;
+}
 
+@media (min-width: 768px) {
+    .mastfoot.inner {
+        padding: 30px 20px;
+    }
+}
 
 /*
  * Header
