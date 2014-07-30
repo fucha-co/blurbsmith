@@ -54,7 +54,7 @@ body {
 }
 .site-wrapper-inner {
   display: table-cell;
-  vertical-align: top;
+  vertical-align: middle;
 }
 .cover-container {
   margin-right: auto;
@@ -145,6 +145,20 @@ body {
     display: inline;
 }
 
+time {
+    float: none;
+    display: block;
+}
+
+.masthead {
+  position: fixed;
+  top: 0;
+}
+
+.mastfoot {
+  position: fixed;
+  bottom: 20px;
+}
 
 /*
  * Affix and center
@@ -152,14 +166,11 @@ body {
 
 @media (min-width: 768px) {
   /* Pull out the header and footer */
-  .masthead {
-    position: fixed;
-    top: 0;
-  }
-  .mastfoot {
-    position: fixed;
-    bottom: 20px;
-  }
+
+    time {
+        float: right;
+        display: block;
+    }
   /* Start the vertical centering */
   .site-wrapper-inner {
     vertical-align: middle;
