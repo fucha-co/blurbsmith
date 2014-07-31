@@ -69,6 +69,10 @@ body {
   display: table-cell;
   vertical-align: top;
 }
+.site-wrapper-inner-home {
+  display: table-cell;
+  vertical-align: middle;
+}
 .cover-container {
   margin-right: auto;
   margin-left: auto;
