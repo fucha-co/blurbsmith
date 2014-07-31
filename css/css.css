@@ -16,6 +16,7 @@
 .subtle a {
     color: #ccc;
 }
+
 /* Links */
 a,
 a:focus,
@@ -26,6 +27,14 @@ a:hover {
 /* Custom default button */
 .btn-default,
 .btn-default:focus {
+  color: #fafafa;
+  text-shadow: none; /* Prevent inheritence from `body` */
+  background-color: #ccc;
+  border: 1px solid #fff;
+  margin-top: 20px;
+}
+
+.btn-default:hover {
   color: #ccc;
   text-shadow: none; /* Prevent inheritence from `body` */
   background-color: #fff;
@@ -33,12 +42,8 @@ a:hover {
   margin-top: 20px;
 }
 
-.btn-default:hover {
-  color: #fafafa;
-  text-shadow: none; /* Prevent inheritence from `body` */
-  background-color: #ccc;
-  border: 1px solid #fff;
-  margin-top: 20px;
+.btn-lg {
+  padding: 10px 15px;
 }
 
 @media (min-width: 768px) {
@@ -156,10 +161,6 @@ padding: 30px 20px 10px;
 .cover {
   padding: 30px 20px;
 }
-.cover .btn-lg {
-  padding: 10px 20px;
-  font-weight: bold;
-}
 .cover h1 {
   font-family: 'Droid Serif';
   font-weight: 700;
@@ -240,4 +241,8 @@ time {
   .cover-container {
     width: 800px;
   }
+}
+
+.relative {
+    position: relative;
 }
