@@ -25,12 +25,19 @@ a:hover {
 
 /* Custom default button */
 .btn-default,
-.btn-default:hover,
 .btn-default:focus {
+  color: #ccc;
+  text-shadow: none; /* Prevent inheritence from `body` */
+  background-color: #fff;
+  border: 1px solid #ccc;
+  margin-top: 20px;
+}
+
+.btn-default:hover {
   color: #fafafa;
   text-shadow: none; /* Prevent inheritence from `body` */
-  background-color: #111;
-  border: none;
+  background-color: #ccc;
+  border: 1px solid #fff;
   margin-top: 20px;
 }
 
