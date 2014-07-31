@@ -12,8 +12,9 @@
   text-rendering: optimizeLegibility;
   -webkit-backface-visibility: hidden; }
 
-.subtle {
-    color: #999;
+.subtle,
+.subtle a, {
+    color: #ccc;
 }
 /* Links */
 a,
