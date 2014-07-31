@@ -243,6 +243,9 @@ time {
   }
 }
 
+img {
+    width: 100%;
+}
 .relative {
     position: relative;
 }
