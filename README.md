@@ -1,4 +1,0 @@
-blurbsmith
-==========
-
-blurbsmith.net
