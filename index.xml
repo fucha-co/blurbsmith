@@ -3,28 +3,31 @@
   <channel>
       <title>Recent Content on Blurbsmith </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://www.blurbsmith.net/index.xml</link>
+    <link>http://localhost:1313/index.xml/</link>
     <language>en-uk</language>
     
     
-    <updated>Sun, 17 Aug 2014 12:22:37 UTC</updated>
+    <updated>Sat, 06 Sep 2014 11:12:25 EST</updated>
     
     <item>
-      <title>Dreamer of Death</title>
-      <link>http://www.blurbsmith.net/dreamer-of-death</link>
-      <pubDate>Sun, 17 Aug 2014 12:22:37 UTC</pubDate>
+      <title>My Eyes, My Father</title>
+      <link>http://localhost:1313/father</link>
+      <pubDate>Sat, 06 Sep 2014 11:12:25 EST</pubDate>
       
-      <guid>http://www.blurbsmith.net/dreamer-of-death</guid>
-      <description>&lt;p&gt;To live with a dreamer of death is to live life every breath without drowning.&lt;/p&gt;
+      <guid>http://localhost:1313/father</guid>
+      <description>&lt;p&gt;He died before my eyes, my father&lt;br /&gt;
+I lived on before his eyes, his son&lt;br /&gt;
+Two lifetimes too short together&lt;br /&gt;
+Two futures forever undone&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>escape me</title>
-      <link>http://www.blurbsmith.net/escape-me</link>
+      <link>http://localhost:1313/escape-me</link>
       <pubDate>Fri, 01 Aug 2014 02:00:00 UTC</pubDate>
       
-      <guid>http://www.blurbsmith.net/escape-me</guid>
+      <guid>http://localhost:1313/escape-me</guid>
       <description>&lt;p&gt;Escape me from this world&lt;br /&gt;
 And take me to another&lt;br /&gt;
 Where you and I are free&lt;br /&gt;
@@ -34,10 +37,10 @@ To redefine each other&lt;/p&gt;
     
     <item>
       <title>escape me for calvin klein</title>
-      <link>http://www.blurbsmith.net/escape-me-for-calvin-klein</link>
+      <link>http://localhost:1313/escape-me-for-calvin-klein</link>
       <pubDate>Fri, 01 Aug 2014 01:00:00 UTC</pubDate>
       
-      <guid>http://www.blurbsmith.net/escape-me-for-calvin-klein</guid>
+      <guid>http://localhost:1313/escape-me-for-calvin-klein</guid>
       <description>&lt;p&gt;&lt;img src=&#34;/i/escape-me-blurbsmith-for-calvin-klein.jpg&#34; alt=&#34;ESCAPE ME for Calvin Klein&#34; title=&#34;ESCAPE ME: A BLURBSMITH concept ad for Calvin klein&#34; /&gt;
 &lt;/p&gt;
 
@@ -49,10 +52,10 @@ To redefine each other&lt;/p&gt;
     
     <item>
       <title>in your arms</title>
-      <link>http://www.blurbsmith.net/in-your-arms</link>
+      <link>http://localhost:1313/in-your-arms</link>
       <pubDate>Wed, 30 Jul 2014 02:00:00 UTC</pubDate>
       
-      <guid>http://www.blurbsmith.net/in-your-arms</guid>
+      <guid>http://localhost:1313/in-your-arms</guid>
       <description>&lt;p&gt;In your arms, I am free&lt;br /&gt;
 In your arms, we are we&lt;br /&gt;
 In your arms, I can reach the sky&lt;br /&gt;
@@ -62,10 +65,10 @@ In your arms, he is I&lt;/p&gt;
     
     <item>
       <title>in your eyes: blurbsmith for ray ban</title>
-      <link>http://www.blurbsmith.net/in-your-arms-for-ray-ban</link>
+      <link>http://localhost:1313/in-your-arms-for-ray-ban</link>
       <pubDate>Wed, 30 Jul 2014 01:00:00 UTC</pubDate>
       
-      <guid>http://www.blurbsmith.net/in-your-arms-for-ray-ban</guid>
+      <guid>http://localhost:1313/in-your-arms-for-ray-ban</guid>
       <description>&lt;p&gt;&lt;img src=&#34;/i/in-your-eyes-blurbsmith-for-ray-ban.jpg&#34; alt=&#34;IN YOUR EYES, for Ray Ban&#34; title=&#34;IN YOUR EYES: A BLURBSMITH concept ad for Ray Ban&#34; /&gt;
 &lt;/p&gt;
 
@@ -77,10 +80,10 @@ In your arms, he is I&lt;/p&gt;
     
     <item>
       <title>he is human</title>
-      <link>http://www.blurbsmith.net/he-is-human</link>
+      <link>http://localhost:1313/he-is-human</link>
       <pubDate>Mon, 28 Jul 2014 03:00:00 UTC</pubDate>
       
-      <guid>http://www.blurbsmith.net/he-is-human</guid>
+      <guid>http://localhost:1313/he-is-human</guid>
       <description>&lt;p&gt;They changed the books, not history&lt;br /&gt;
 They took his name out, not away&lt;br /&gt;
 He always knew what we never wanted to&amp;hellip;&lt;br /&gt;
@@ -90,10 +93,10 @@ HE IS HUMAN&lt;/p&gt;
     
     <item>
       <title>he is human: blurbsmith for lance armstrong</title>
-      <link>http://www.blurbsmith.net/he-is-human-for-lance-armstrong</link>
+      <link>http://localhost:1313/he-is-human-for-lance-armstrong</link>
       <pubDate>Mon, 28 Jul 2014 02:00:00 UTC</pubDate>
       
-      <guid>http://www.blurbsmith.net/he-is-human-for-lance-armstrong</guid>
+      <guid>http://localhost:1313/he-is-human-for-lance-armstrong</guid>
       <description>&lt;p&gt;&lt;img src=&#34;/i/he-is-human.jpg&#34; alt=&#34;Lance Armstong He Is Human&#34; title=&#34;Lance Armstong He Is Human blurb&#34; /&gt;
 &lt;/p&gt;
 </description>
@@ -101,10 +104,10 @@ HE IS HUMAN&lt;/p&gt;
     
     <item>
       <title>stop and stand</title>
-      <link>http://www.blurbsmith.net/stop-and-stand</link>
+      <link>http://localhost:1313/stop-and-stand</link>
       <pubDate>Sun, 27 Jul 2014 02:00:00 UTC</pubDate>
       
-      <guid>http://www.blurbsmith.net/stop-and-stand</guid>
+      <guid>http://localhost:1313/stop-and-stand</guid>
       <description>&lt;p&gt;I like to stop and stand and watch the world…&lt;br /&gt;
 it&amp;rsquo;s a comforting reminder of my own insignificance.&lt;/p&gt;
 </description>
@@ -112,10 +115,10 @@ it&amp;rsquo;s a comforting reminder of my own insignificance.&lt;/p&gt;
     
     <item>
       <title>stop and stand &amp; unsplash</title>
-      <link>http://www.blurbsmith.net/stop-and-stand-unsplash</link>
+      <link>http://localhost:1313/stop-and-stand-unsplash</link>
       <pubDate>Sun, 27 Jul 2014 01:00:00 UTC</pubDate>
       
-      <guid>http://www.blurbsmith.net/stop-and-stand-unsplash</guid>
+      <guid>http://localhost:1313/stop-and-stand-unsplash</guid>
       <description>&lt;p&gt;&lt;img src=&#34;/i/stop-and-stand.jpg&#34; alt=&#34;STOP AND STAND blurb sample&#34; title=&#34;STOP AND STAND blurb sample&#34; /&gt;
 &lt;/p&gt;
 </description>
@@ -123,20 +126,20 @@ it&amp;rsquo;s a comforting reminder of my own insignificance.&lt;/p&gt;
     
     <item>
       <title>the past</title>
-      <link>http://www.blurbsmith.net/the-past</link>
+      <link>http://localhost:1313/the-past</link>
       <pubDate>Sat, 26 Jul 2014 01:00:00 UTC</pubDate>
       
-      <guid>http://www.blurbsmith.net/the-past</guid>
+      <guid>http://localhost:1313/the-past</guid>
       <description>&lt;p&gt;The past is the past, unless you&amp;rsquo;re the same person in the present. Then your past is your future too, and you&amp;rsquo;re fucked.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>more betsys</title>
-      <link>http://www.blurbsmith.net/more-betsys</link>
+      <link>http://localhost:1313/more-betsys</link>
       <pubDate>Fri, 25 Jul 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://www.blurbsmith.net/more-betsys</guid>
+      <guid>http://localhost:1313/more-betsys</guid>
       <description>&lt;p&gt;It&amp;rsquo;s not that the world needs less Lance Armstrongs&amp;hellip;&lt;br /&gt;
 It&amp;rsquo;s that the world needs more Betsy Andreas.&lt;/p&gt;
 </description>
@@ -144,10 +147,10 @@ It&amp;rsquo;s that the world needs more Betsy Andreas.&lt;/p&gt;
     
     <item>
       <title>slowly we</title>
-      <link>http://www.blurbsmith.net/slowly-we</link>
+      <link>http://localhost:1313/slowly-we</link>
       <pubDate>Sat, 05 Jul 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://www.blurbsmith.net/slowly-we</guid>
+      <guid>http://localhost:1313/slowly-we</guid>
       <description>&lt;p&gt;Never have I dared to be so me&lt;br /&gt;
 Forever have I dreamed that you could be&lt;br /&gt;
 Together is our dance, slowly we&lt;/p&gt;
@@ -156,10 +159,10 @@ Together is our dance, slowly we&lt;/p&gt;
     
     <item>
       <title>I See</title>
-      <link>http://www.blurbsmith.net/i-see</link>
+      <link>http://localhost:1313/i-see</link>
       <pubDate>Thu, 03 Jul 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://www.blurbsmith.net/i-see</guid>
+      <guid>http://localhost:1313/i-see</guid>
       <description>&lt;p&gt;If it were just the way she walked away&lt;br /&gt;
 I’d swear she didn’t care&lt;br /&gt;
 But each time we meet&lt;br /&gt;
@@ -170,10 +173,10 @@ I see her love still there&lt;/p&gt;
     
     <item>
       <title>serenade</title>
-      <link>http://www.blurbsmith.net/serenade</link>
+      <link>http://localhost:1313/serenade</link>
       <pubDate>Wed, 02 Jul 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://www.blurbsmith.net/serenade</guid>
+      <guid>http://localhost:1313/serenade</guid>
       <description>&lt;p&gt;You serenade me asleep&lt;br /&gt;
 And you serenade me awake&lt;br /&gt;
 Your rhythm makes my heart beat&lt;br /&gt;
@@ -183,10 +186,10 @@ Your whispers, my heart ache&lt;/p&gt;
     
     <item>
       <title>contact</title>
-      <link>http://www.blurbsmith.net/contact</link>
+      <link>http://localhost:1313/contact</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://www.blurbsmith.net/contact</guid>
+      <guid>http://localhost:1313/contact</guid>
       <description>&lt;p&gt;Need an ad, blurb, or slogan? Want to licence a BLURBSMITH blurb?
 &lt;br&gt;
 &lt;br&gt;
