@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="">
 	<meta name="author" content="">
-	<link href='http://fonts.googleapis.com/css?family=Cousine:400,700|Droid+Serif:400,700' rel='stylesheet'>
+	<link href='//fonts.googleapis.com/css?family=Cousine:400,700|Droid+Serif:400,700' rel='stylesheet'>
 	<link rel="icon" href="/i/favicon.ico">
 	<link rel="prefetch" href="/contact" />
 	
@@ -23,8 +23,8 @@
 		
 	
 		
-	
-		<link href="/css/css.css" rel="stylesheet">
+		
+		<link href="/css/css.min.css" rel="stylesheet">
 
 	
 	<script src="/js/ie10-viewport-bug-workaround.js"></script>
@@ -33,7 +33,7 @@
 	
 </head>
 
-<body screen_capture_injected="true">
+<body>
 
 	<div class="masthead clearfix">
 	<div class="inner">
@@ -47,7 +47,7 @@
 			<h1 id="title">Pages</h1>
 				<ul class="posts">
 					<li>
-						<a href="http://localhost:1313/page/">Pages</a>
+						<a href="https://localhost:1313/page/">Pages</a>
 						<div class="meta">Wed, Jan 1, 2014</div>
 					</li>
 				</ul>
@@ -69,6 +69,9 @@
 		
 		
 		<script src="/js/js.js"></script>
-	</body>
+	<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
 

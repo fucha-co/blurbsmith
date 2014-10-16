@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Pages on Blurbsmith </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/page/index.xml/</link>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>https://localhost:1313/page/index.xml/</link>
     <language>en-uk</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>contact</title>
-      <link>http://localhost:1313/contact</link>
+      <link>https://localhost:1313/contact</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/contact</guid>
+      <guid>https://localhost:1313/contact</guid>
       <description>&lt;p&gt;Need an ad, blurb, or slogan? Want to licence a BLURBSMITH blurb?
 &lt;br&gt;
 &lt;br&gt;

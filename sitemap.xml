@@ -2,83 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2014-09-06T11:12:25+10:00</lastmod>
+    <loc>https://localhost:1313/</loc>
+    <lastmod>2014-10-15T09:20:14+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/father</loc>
-    <lastmod>2014-09-06T11:12:25+10:00</lastmod>
+    <loc>https://localhost:1313/very-happy-jan</loc>
+    <lastmod>2014-10-15T09:20:14+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/escape-me</loc>
+    <loc>https://localhost:1313/he-is-human-for-lance-armstrong</loc>
+    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/escape-me</loc>
     <lastmod>2014-08-01T02:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/escape-me-for-calvin-klein</loc>
+    <loc>https://localhost:1313/escape-me-for-calvin-klein</loc>
     <lastmod>2014-08-01T01:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/in-your-arms</loc>
+    <loc>https://localhost:1313/in-your-arms</loc>
     <lastmod>2014-07-30T02:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/in-your-arms-for-ray-ban</loc>
+    <loc>https://localhost:1313/in-your-arms-for-ray-ban</loc>
     <lastmod>2014-07-30T01:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/he-is-human</loc>
+    <loc>https://localhost:1313/he-is-human</loc>
     <lastmod>2014-07-28T03:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/he-is-human-for-lance-armstrong</loc>
-    <lastmod>2014-07-28T02:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/stop-and-stand</loc>
+    <loc>https://localhost:1313/stop-and-stand</loc>
     <lastmod>2014-07-27T02:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/stop-and-stand-unsplash</loc>
+    <loc>https://localhost:1313/stop-and-stand-unsplash</loc>
     <lastmod>2014-07-27T01:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/the-past</loc>
+    <loc>https://localhost:1313/the-past</loc>
     <lastmod>2014-07-26T01:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/more-betsys</loc>
+    <loc>https://localhost:1313/more-betsys</loc>
     <lastmod>2014-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/slowly-we</loc>
+    <loc>https://localhost:1313/slowly-we</loc>
     <lastmod>2014-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/i-see</loc>
+    <loc>https://localhost:1313/i-see</loc>
     <lastmod>2014-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/serenade</loc>
+    <loc>https://localhost:1313/serenade</loc>
     <lastmod>2014-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/contact</loc>
+    <loc>https://localhost:1313/contact</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
