@@ -207,7 +207,7 @@ time {
  */
 
 img {
-    width: auto;
+    width: 100%;
     margin: 20px 0 60px;
 }
 
@@ -226,7 +226,7 @@ img {
     }
 
     img {
-        width: 100%;
+        width: auto;
         margin: 20px 0 60px;
     }
 
