@@ -206,6 +206,11 @@ time {
  * Affix and center
  */
 
+img {
+    width: auto;
+    margin: 20px 0 60px;
+}
+
 @media (min-width: 768px) {
   /* Pull out the header and footer */
 
@@ -219,6 +224,12 @@ time {
         display: block;
         margin-top: 0em;
     }
+
+    img {
+        width: 100%;
+        margin: 20px 0 60px;
+    }
+
   /* Start the vertical centering */
   .site-wrapper-inner {
     vertical-align: middle;
@@ -239,10 +250,6 @@ time {
   }
 }
 
-img {
-    width: auto;
-    margin: 20px 0 60px;
-}
 .relative {
     position: relative;
 }
