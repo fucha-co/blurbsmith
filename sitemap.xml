@@ -3,8 +3,13 @@
   
   <url>
     <loc>https://localhost:1313/</loc>
-    <lastmod>2014-10-15T09:20:14+10:00</lastmod>
+    <lastmod>2014-10-23T09:40:14+10:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/all-you-do</loc>
+    <lastmod>2014-10-23T09:40:14+10:00</lastmod>
   </url>
   
   <url>
