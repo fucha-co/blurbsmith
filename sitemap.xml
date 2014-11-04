@@ -3,23 +3,28 @@
   
   <url>
     <loc>https://localhost:1313/</loc>
-    <lastmod>2014-10-23T09:40:14+10:00</lastmod>
+    <lastmod>2014-11-04T09:00:14+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://localhost:1313/dream-to-dream</loc>
+    <lastmod>2014-11-04T09:00:14+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://localhost:1313/all-you-do</loc>
-    <lastmod>2014-10-23T09:40:14+10:00</lastmod>
+    <lastmod>2014-11-01T09:00:14+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/all-you-do-plus</loc>
+    <lastmod>2014-10-29T09:40:14+10:00</lastmod>
   </url>
   
   <url>
     <loc>https://localhost:1313/very-happy-jan</loc>
     <lastmod>2014-10-15T09:20:14+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://localhost:1313/he-is-human-for-lance-armstrong</loc>
-    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -45,6 +50,11 @@
   <url>
     <loc>https://localhost:1313/he-is-human</loc>
     <lastmod>2014-07-28T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/he-is-human-for-lance-armstrong</loc>
+    <lastmod>2014-07-28T02:00:00+00:00</lastmod>
   </url>
   
   <url>

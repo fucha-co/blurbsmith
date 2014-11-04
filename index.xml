@@ -7,14 +7,38 @@
     <language>en-uk</language>
     
     
-    <updated>Thu, 23 Oct 2014 09:40:14 AEST</updated>
+    <updated>Tue, 04 Nov 2014 09:00:14 AEST</updated>
+    
+    <item>
+      <title>Dream To Dream</title>
+      <link>https://localhost:1313/dream-to-dream</link>
+      <pubDate>Tue, 04 Nov 2014 09:00:14 AEST</pubDate>
+      
+      <guid>https://localhost:1313/dream-to-dream</guid>
+      <description>&lt;p&gt;I dreamed she lived the day she died&lt;br /&gt;
+She took with her my love inside&lt;br /&gt;
+As I live on and so does she&lt;br /&gt;
+I dream to dream her memory&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>All You Do</title>
       <link>https://localhost:1313/all-you-do</link>
-      <pubDate>Thu, 23 Oct 2014 09:40:14 AEST</pubDate>
+      <pubDate>Sat, 01 Nov 2014 09:00:14 AEST</pubDate>
       
       <guid>https://localhost:1313/all-you-do</guid>
+      <description>&lt;p&gt;You learn while they die you regret all you didn&amp;rsquo;t&lt;br /&gt;
+Then you know while they live you don&amp;rsquo;t regret all you do&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>All You Do [Plus]</title>
+      <link>https://localhost:1313/all-you-do-plus</link>
+      <pubDate>Wed, 29 Oct 2014 09:40:14 AEST</pubDate>
+      
+      <guid>https://localhost:1313/all-you-do-plus</guid>
       <description>&lt;p&gt;&lt;img src=&#34;/i/all-you-do.jpg&#34; alt=&#34;All You Do&#34; title=&#34;All You Do&#34; /&gt;
 &lt;/p&gt;
 </description>
@@ -30,17 +54,6 @@
 &lt;/p&gt;
 
 &lt;p&gt;Jan Frodeno&amp;hellip; 3rd place in his Hawaii Ironman debut&amp;hellip; VERY HAPPY, JAN! Very happy. And we all know you&amp;rsquo;re secretly Australian Jan&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>he is human: blurbsmith for lance armstrong</title>
-      <link>https://localhost:1313/he-is-human-for-lance-armstrong</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      
-      <guid>https://localhost:1313/he-is-human-for-lance-armstrong</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/i/he-is-human.jpg&#34; alt=&#34;Lance Armstong He Is Human&#34; title=&#34;Lance Armstong He Is Human blurb&#34; /&gt;
-&lt;/p&gt;
 </description>
     </item>
     
@@ -110,6 +123,17 @@ HE IS HUMAN&lt;/p&gt;
     </item>
     
     <item>
+      <title>he is human: blurbsmith for lance armstrong</title>
+      <link>https://localhost:1313/he-is-human-for-lance-armstrong</link>
+      <pubDate>Mon, 28 Jul 2014 02:00:00 UTC</pubDate>
+      
+      <guid>https://localhost:1313/he-is-human-for-lance-armstrong</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/i/he-is-human.jpg&#34; alt=&#34;Lance Armstong He Is Human&#34; title=&#34;Lance Armstong He Is Human blurb&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>stop and stand</title>
       <link>https://localhost:1313/stop-and-stand</link>
       <pubDate>Sun, 27 Jul 2014 02:00:00 UTC</pubDate>
@@ -161,33 +185,6 @@ It&amp;rsquo;s that the world needs more Betsy Andreas.&lt;/p&gt;
       <description>&lt;p&gt;Never have I dared to be so me&lt;br /&gt;
 Forever have I dreamed that you could be&lt;br /&gt;
 Together is our dance, slowly we&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>I See</title>
-      <link>https://localhost:1313/i-see</link>
-      <pubDate>Thu, 03 Jul 2014 00:00:00 UTC</pubDate>
-      
-      <guid>https://localhost:1313/i-see</guid>
-      <description>&lt;p&gt;If it were just the way she walked away&lt;br /&gt;
-I’d swear she didn’t care&lt;br /&gt;
-But each time we meet&lt;br /&gt;
-I see her eyes&lt;br /&gt;
-I see her love still there&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>serenade</title>
-      <link>https://localhost:1313/serenade</link>
-      <pubDate>Wed, 02 Jul 2014 00:00:00 UTC</pubDate>
-      
-      <guid>https://localhost:1313/serenade</guid>
-      <description>&lt;p&gt;You serenade me asleep&lt;br /&gt;
-And you serenade me awake&lt;br /&gt;
-Your rhythm makes my heart beat&lt;br /&gt;
-Your whispers, my heart ache&lt;/p&gt;
 </description>
     </item>
     
