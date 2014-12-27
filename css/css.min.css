@@ -226,7 +226,7 @@ img {
     }
 
     img {
-        width: auto;
+        width: 100%;
         margin: 20px 0 60px;
     }
 
@@ -253,3 +253,6 @@ img {
 .relative {
     position: relative;
 }
+
+.noPad { padding: 0 !important}
+.taR {text-align: right}
